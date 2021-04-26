@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catdata>
+  <heading>Namis Kitten</heading>
+  <body>
+    <Kitten>
+        <id>K1</id>
+        <weight>115</weight>
+    </Kitten>
+    <Kitten>
+        <id>K2</id>
+        <weight>112</weight>
+    </Kitten>
+    <Kitten>
+        <id>K3</id>
+        <weight>118</weight>
+    </Kitten>
+  </body>
+</catdata>

@@ -1,0 +1,1 @@
+const re = /^([0-9]x){3}$/; //Has to be sth like 3x9x6x

@@ -1,0 +1,9 @@
+{
+    "description": "Cat-data from data.json",
+    "Mother": "Nami",
+    "Kitten": [
+        {"id": "K1", "weight": 115},
+        {"id": "K2", "weight": 112},
+        {"id": "K3", "weight": 118}
+    ]
+}
